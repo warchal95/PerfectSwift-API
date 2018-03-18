@@ -1,7 +1,6 @@
 # PerfectSwift-API
 
-Welcome to the **PerfectSwift-API**. It's an API made with **PerfectSwift** framework and it's basic responsibility is to handle operations from mobile application and heater's micro controller.
-
+Welcome to the **PerfectSwift-API**. It's an API made with **Perfect** framework and it's basic responsibility is to handle operations from mobile application and heater's micro controller.
 
 ### Tools & requirements
 
